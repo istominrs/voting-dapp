@@ -1,0 +1,9 @@
+/Users/romanistomin/work/solana-projects/voting-dapp/anchor/target/sbpf-solana-solana/release/deps/libsolana_system_interface-fa1e81cffb6dbddd.rmeta: /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
+
+/Users/romanistomin/work/solana-projects/voting-dapp/anchor/target/sbpf-solana-solana/release/deps/libsolana_system_interface-fa1e81cffb6dbddd.rlib: /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
+
+/Users/romanistomin/work/solana-projects/voting-dapp/anchor/target/sbpf-solana-solana/release/deps/solana_system_interface-fa1e81cffb6dbddd.d: /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
+
+/Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs:
+/Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs:
+/Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs:

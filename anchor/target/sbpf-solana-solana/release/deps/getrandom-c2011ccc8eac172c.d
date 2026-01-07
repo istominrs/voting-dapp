@@ -1,0 +1,10 @@
+/Users/romanistomin/work/solana-projects/voting-dapp/anchor/target/sbpf-solana-solana/release/deps/libgetrandom-c2011ccc8eac172c.rmeta: /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/Users/romanistomin/work/solana-projects/voting-dapp/anchor/target/sbpf-solana-solana/release/deps/libgetrandom-c2011ccc8eac172c.rlib: /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/Users/romanistomin/work/solana-projects/voting-dapp/anchor/target/sbpf-solana-solana/release/deps/getrandom-c2011ccc8eac172c.d: /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs:
+/Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs:
+/Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs:
+/Users/romanistomin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs:
